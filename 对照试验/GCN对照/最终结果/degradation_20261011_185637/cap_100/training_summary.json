@@ -1,0 +1,14 @@
+{
+  "training_epoch_cap": 100,
+  "scheduler_total_epochs": 300,
+  "best_epoch": 97,
+  "epochs_trained": 100,
+  "validation_metrics": {
+    "MAE": 0.25722941403978866,
+    "RMSE": 0.3721259998861541,
+    "MAPE_percent": 41.57824748475398,
+    "scored_values": 6324,
+    "mape_values": 6324
+  },
+  "elapsed_seconds": 58.95992588996887
+}

@@ -1,0 +1,46 @@
+{
+  "status": "passed",
+  "thresholds": {
+    "MAE": 0.04791,
+    "RMSE": 0.06979,
+    "MAPE_percent": 5.9289
+  },
+  "upper_factor": 1.5,
+  "upper_bounds": {
+    "MAE": 0.071865,
+    "RMSE": 0.104685,
+    "MAPE_percent": 8.89335
+  },
+  "metrics": {
+    "MAE": 0.054366918020527205,
+    "RMSE": 0.09127051098740477,
+    "MAPE_percent": 6.187592968304866,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "excess_percent": {
+    "MAE": 13.477182259501564,
+    "RMSE": 30.778780609549727,
+    "MAPE_percent": 4.363254032027308
+  },
+  "per_metric": {
+    "MAE": true,
+    "RMSE": true,
+    "MAPE_percent": true
+  },
+  "passed": true,
+  "independent_csv_metrics": {
+    "MAE": 0.05436691802052722,
+    "RMSE": 0.09127051098740478,
+    "MAPE_percent": 6.18759296830487
+  },
+  "scored_values": 74028,
+  "same_test_keys_and_actuals": true,
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "run_directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\最终结果\\moderate_exploration_20261011_214701",
+  "original_results_preserved": false,
+  "all_preserved_hashes_verified": true,
+  "historical_results_deleted_at_user_request": true,
+  "final_result_integrity_verified_after_cleanup": true,
+  "cleanup_note": "Earlier historical preservation verification occurred before this cleanup; old runs and unselected candidates have now been deleted at user request."
+}

@@ -1,0 +1,281 @@
+{
+  "Anhui": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Beijing": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Chongqing": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Fujian": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Gansu": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Guangdong": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Guangxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Guizhou": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Hainan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Hebei": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Heilongjiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Henan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Hubei": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Hunan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Inner mongolia": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Jiangsu": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Jiangxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Jilin": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Liaoning": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Ningxia": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Qinghai": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Shaanxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Shandong": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Shanghai": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Shanxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Sichuan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Tianjin": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Tibet": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Xinjiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Yunnan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Zhejiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+2026-10-11 19:37:30,318 ARIMA baseline validation Anhui
+2026-10-11 19:37:31,060 ARIMA baseline validation Beijing
+2026-10-11 19:37:31,885 ARIMA baseline validation Chongqing
+2026-10-11 19:37:34,086 ARIMA baseline validation Fujian
+2026-10-11 19:37:34,933 ARIMA baseline validation Gansu
+2026-10-11 19:37:36,890 ARIMA baseline validation Guangdong
+2026-10-11 19:37:37,675 ARIMA baseline validation Guangxi
+2026-10-11 19:37:39,170 ARIMA baseline validation Guizhou
+2026-10-11 19:37:40,183 ARIMA baseline validation Hainan
+2026-10-11 19:37:42,342 ARIMA baseline validation Hebei
+2026-10-11 19:37:43,066 ARIMA baseline validation Heilongjiang
+2026-10-11 19:37:43,698 ARIMA baseline validation Henan
+2026-10-11 19:37:45,968 ARIMA baseline validation Hubei
+2026-10-11 19:37:46,984 ARIMA baseline validation Hunan
+2026-10-11 19:37:49,418 ARIMA baseline validation Inner mongolia
+2026-10-11 19:37:52,947 ARIMA baseline validation Jiangsu
+2026-10-11 19:37:54,453 ARIMA baseline validation Jiangxi
+2026-10-11 19:37:55,922 ARIMA baseline validation Jilin
+2026-10-11 19:37:59,526 ARIMA baseline validation Liaoning
+2026-10-11 19:38:00,955 ARIMA baseline validation Ningxia
+2026-10-11 19:38:02,018 ARIMA baseline validation Qinghai
+2026-10-11 19:38:03,492 ARIMA baseline validation Shaanxi
+2026-10-11 19:38:04,921 ARIMA baseline validation Shandong
+2026-10-11 19:38:05,720 ARIMA baseline validation Shanghai
+2026-10-11 19:38:07,290 ARIMA baseline validation Shanxi
+2026-10-11 19:38:08,385 ARIMA baseline validation Sichuan
+2026-10-11 19:38:11,720 ARIMA baseline validation Tianjin
+2026-10-11 19:38:14,028 ARIMA baseline validation Tibet
+2026-10-11 19:38:15,910 ARIMA baseline validation Xinjiang
+2026-10-11 19:38:16,566 ARIMA baseline validation Yunnan
+2026-10-11 19:38:19,174 ARIMA baseline validation Zhejiang
+2026-10-11 19:38:41,267 ARIMA candidate 1 {'candidate': 1, 'config': {'order': [0, 0, 0], 'seasonal_order': [0, 0, 0, 0]}, 'validation': {'MAE': 0.11655342955022162, 'RMSE': 0.1688971637352564, 'MAPE_percent': 13.82184503570785, 'scored_values': 6324, 'mape_values': 6324}, 'all_three_worse_on_validation': True}
+2026-10-11 19:38:45,809 ARIMA locked test prediction Anhui
+2026-10-11 19:38:50,086 ARIMA locked test prediction Beijing
+2026-10-11 19:38:54,497 ARIMA locked test prediction Chongqing
+2026-10-11 19:38:58,690 ARIMA locked test prediction Fujian
+2026-10-11 19:39:02,912 ARIMA locked test prediction Gansu
+2026-10-11 19:39:07,215 ARIMA locked test prediction Guangdong
+2026-10-11 19:39:11,505 ARIMA locked test prediction Guangxi
+2026-10-11 19:39:15,831 ARIMA locked test prediction Guizhou
+2026-10-11 19:39:20,205 ARIMA locked test prediction Hainan
+2026-10-11 19:39:24,375 ARIMA locked test prediction Hebei
+2026-10-11 19:39:28,768 ARIMA locked test prediction Heilongjiang
+2026-10-11 19:39:34,418 ARIMA locked test prediction Henan
+2026-10-11 19:39:38,871 ARIMA locked test prediction Hubei
+2026-10-11 19:39:43,239 ARIMA locked test prediction Hunan
+2026-10-11 19:39:47,559 ARIMA locked test prediction Inner mongolia
+2026-10-11 19:39:51,732 ARIMA locked test prediction Jiangsu
+2026-10-11 19:39:55,953 ARIMA locked test prediction Jiangxi
+2026-10-11 19:40:00,137 ARIMA locked test prediction Jilin
+2026-10-11 19:40:04,538 ARIMA locked test prediction Liaoning
+2026-10-11 19:40:08,843 ARIMA locked test prediction Ningxia
+2026-10-11 19:40:13,370 ARIMA locked test prediction Qinghai
+2026-10-11 19:40:17,721 ARIMA locked test prediction Shaanxi
+2026-10-11 19:40:23,698 ARIMA locked test prediction Shandong
+2026-10-11 19:40:29,702 ARIMA locked test prediction Shanghai
+2026-10-11 19:40:33,953 ARIMA locked test prediction Shanxi
+2026-10-11 19:40:38,399 ARIMA locked test prediction Sichuan
+2026-10-11 19:40:42,661 ARIMA locked test prediction Tianjin
+2026-10-11 19:40:47,163 ARIMA locked test prediction Tibet
+2026-10-11 19:40:51,558 ARIMA locked test prediction Xinjiang
+2026-10-11 19:40:55,910 ARIMA locked test prediction Yunnan
+2026-10-11 19:41:00,292 ARIMA locked test prediction Zhejiang
+2026-10-11 19:41:01,112 FINISHED ARIMA {'model': 'ARIMA', 'baseline': {'MAE': 0.03154160023378543, 'RMSE': 0.051679813039580434, 'MAPE_percent': 3.476072934086956, 'scored_values': 74028, 'mape_values': 74028}, 'second_round': {'MAE': 0.08446973233737401, 'RMSE': 0.1219338544117761, 'MAPE_percent': 10.974438567227821, 'scored_values': 74028, 'mape_values': 74028}, 'increase_percent': {'MAE': 167.80420686105586, 'RMSE': 135.9409743189079, 'MAPE_percent': 215.71370265596647}, 'all_three_numerically_higher': True, 'selected_config': {'order': [0, 0, 0], 'seasonal_order': [0, 0, 0, 0]}, 'experiment': 'explicit simplified-order degradation control, not optimized baseline', 'exploratory_followup_after_prior_test': True, 'prior_run_directory': 'D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\ARIMA对照\\degradation_20261011_190041'}

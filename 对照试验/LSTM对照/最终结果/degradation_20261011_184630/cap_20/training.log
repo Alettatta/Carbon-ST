@@ -1,0 +1,10 @@
+2026-10-11 18:46:37,316 INFO Output directory: D:\word\OneDrive\桌面\叶珒杰\对照试验2\LSTM对照\degradation_20261011_184630\cap_20
+2026-10-11 18:46:37,316 INFO Python=3.8.20 torch=2.4.1 CUDA=11.8 GPU=NVIDIA GeForce GTX 1650
+2026-10-11 18:46:37,317 INFO Loading source: D:\word\OneDrive\桌面\叶珒杰\复现\raw_inputs\历史与预测.csv
+2026-10-11 18:46:37,474 INFO Data=2098 days x 31 provinces; train windows=1655, validation windows=17, test origins=199; scaler mean=0.85778625 std=0.65385749
+2026-10-11 18:46:37,504 INFO GPU smoke check passed: input=(4, 12, 31) forecast=(4, 12, 31)
+2026-10-11 18:46:40,587 INFO Epoch 1/300 train_MAE_scaled=0.768920 validation_MAE=0.50572925 lr=1e-06 wait=0/50
+2026-10-11 18:46:43,688 INFO Epoch 5/300 train_MAE_scaled=0.109931 validation_MAE=0.08687868 lr=0.0008002 wait=0/50
+2026-10-11 18:46:47,450 INFO Epoch 10/300 train_MAE_scaled=0.077930 validation_MAE=0.06838630 lr=0.0009980029 wait=1/50
+2026-10-11 18:46:51,344 INFO Epoch 15/300 train_MAE_scaled=0.068174 validation_MAE=0.06606885 lr=0.0009951725 wait=3/50
+2026-10-11 18:46:55,370 INFO Epoch 20/300 train_MAE_scaled=0.063405 validation_MAE=0.06570367 lr=0.000991122 wait=0/50

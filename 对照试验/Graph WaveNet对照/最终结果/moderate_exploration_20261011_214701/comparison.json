@@ -1,0 +1,45 @@
+{
+  "model": "Graph WaveNet",
+  "baseline": {
+    "MAE": 0.031245924999304783,
+    "RMSE": 0.05087566568816627,
+    "MAPE_percent": 3.6336743328334515,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.054366918020527205,
+    "RMSE": 0.09127051098740477,
+    "MAPE_percent": 6.187592968304866,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "absolute_thresholds": {
+    "MAE": 0.04791,
+    "RMSE": 0.06979,
+    "MAPE_percent": 5.9289
+  },
+  "upper_factor": 1.5,
+  "all_three_above_thresholds": true,
+  "all_three_within_requested_band": true,
+  "learning_rate": 0.001,
+  "dropout": 0.97,
+  "batch_size": 16,
+  "increase_percent": {
+    "MAE": 73.99682685577994,
+    "RMSE": 79.39914840000685,
+    "MAPE_percent": 70.28474215189038
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 2,
+  "best_epoch": 2,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline",
+  "exploratory_followup_after_prior_test": true,
+  "excess_above_threshold_percent": {
+    "MAE": 13.477182259501564,
+    "RMSE": 30.778780609549727,
+    "MAPE_percent": 4.363254032027308
+  },
+  "acceptance_basis": "latest user range: 50%; original comparison.json preserves 30% criterion at run start"
+}

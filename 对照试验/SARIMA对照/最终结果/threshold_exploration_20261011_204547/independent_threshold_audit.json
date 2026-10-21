@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "thresholds": {
+    "MAE": 0.04791,
+    "RMSE": 0.06979,
+    "MAPE_percent": 5.9289
+  },
+  "recomputed_metrics": {
+    "MAE": 0.06889181741758522,
+    "RMSE": 0.11188757606251663,
+    "MAPE_percent": 7.649605141498982
+  },
+  "per_metric_pass": {
+    "MAE": true,
+    "RMSE": true,
+    "MAPE_percent": true
+  },
+  "same_keys_and_actuals_as_first": true,
+  "source_hash_matches": true,
+  "rows": 74028,
+  "analytical_forecasts_match_all_rows": true,
+  "predictions_sha256": "33b0f9cc2afb7088edca13219d82336f658730b327ea3a0de860a0e3b2f4653a"
+}

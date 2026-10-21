@@ -1,0 +1,335 @@
+{
+  "Anhui": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Beijing": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Chongqing": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 9,
+      "warnings": []
+    }
+  ],
+  "Fujian": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Gansu": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 8,
+      "warnings": []
+    }
+  ],
+  "Guangdong": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Guangxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 8,
+      "warnings": []
+    }
+  ],
+  "Guizhou": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Hainan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Hebei": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Heilongjiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Henan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 4,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 4,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "powell",
+      "converged": true,
+      "iterations": 2,
+      "warnings": []
+    }
+  ],
+  "Hubei": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 8,
+      "warnings": []
+    }
+  ],
+  "Hunan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Inner mongolia": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Jiangsu": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Jiangxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Jilin": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 5,
+      "warnings": []
+    }
+  ],
+  "Liaoning": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Ningxia": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Qinghai": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 5,
+      "warnings": []
+    }
+  ],
+  "Shaanxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 5,
+      "warnings": []
+    }
+  ],
+  "Shandong": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 6,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 6,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "powell",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Shanghai": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 4,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "lbfgs",
+      "converged": false,
+      "iterations": 4,
+      "warnings": [
+        "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+      ]
+    },
+    {
+      "maxiter": 1000,
+      "optimizer": "powell",
+      "converged": true,
+      "iterations": 3,
+      "warnings": []
+    }
+  ],
+  "Shanxi": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 5,
+      "warnings": []
+    }
+  ],
+  "Sichuan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Tianjin": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 6,
+      "warnings": []
+    }
+  ],
+  "Tibet": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Xinjiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 7,
+      "warnings": []
+    }
+  ],
+  "Yunnan": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 5,
+      "warnings": []
+    }
+  ],
+  "Zhejiang": [
+    {
+      "maxiter": 300,
+      "optimizer": "lbfgs",
+      "converged": true,
+      "iterations": 8,
+      "warnings": []
+    }
+  ]
+}

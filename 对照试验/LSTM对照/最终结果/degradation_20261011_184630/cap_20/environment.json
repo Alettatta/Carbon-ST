@@ -1,0 +1,9 @@
+{
+  "python": "3.8.20 (default, Oct  3 2024, 15:19:54) [MSC v.1929 64 bit (AMD64)]",
+  "torch": "2.4.1",
+  "numpy": "1.24.3",
+  "pandas": "1.5.3",
+  "cuda": "11.8",
+  "device": "NVIDIA GeForce GTX 1650",
+  "cuda_available": true
+}

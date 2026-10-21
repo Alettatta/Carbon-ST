@@ -1,0 +1,27 @@
+{
+  "model": "LSTM",
+  "baseline": {
+    "MAE": 0.048587902081222364,
+    "RMSE": 0.07248046448802886,
+    "MAPE_percent": 6.191722702902905,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.050478992596314935,
+    "RMSE": 0.07524940342913197,
+    "MAPE_percent": 6.419511775280766,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "increase_percent": {
+    "MAE": 3.892101601611269,
+    "RMSE": 3.8202555138984224,
+    "MAPE_percent": 3.6789288427123004
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 20,
+  "best_epoch": 20,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline"
+}

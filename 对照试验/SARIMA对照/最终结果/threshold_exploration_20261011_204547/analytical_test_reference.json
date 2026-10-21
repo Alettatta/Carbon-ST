@@ -1,0 +1,28 @@
+{
+  "status": "verified_against_all_formally_exported_test_predictions",
+  "locked_config": {
+    "order": [
+      0,
+      0,
+      0
+    ],
+    "seasonal_order": [
+      0,
+      1,
+      0,
+      28
+    ]
+  },
+  "metrics": {
+    "MAE": 0.06889181741758522,
+    "RMSE": 0.11188757606251663,
+    "MAPE_percent": 7.649605141498982
+  },
+  "first_origin_statsmodels_comparison_provinces": [
+    "Anhui",
+    "Beijing",
+    "Chongqing"
+  ],
+  "scored_values": 74028,
+  "verified_rows": 74028
+}

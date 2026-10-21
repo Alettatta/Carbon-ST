@@ -1,0 +1,26 @@
+2026-10-11 18:56:42,341 INFO Output directory: D:\word\OneDrive\桌面\叶珒杰\对照试验2\GCN对照\degradation_20261011_185637\cap_100
+2026-10-11 18:56:42,341 INFO Python=3.8.20 torch=2.4.1 CUDA=11.8 GPU=NVIDIA GeForce GTX 1650
+2026-10-11 18:56:42,341 INFO Loading source: D:\word\OneDrive\桌面\叶珒杰\复现\raw_inputs\历史与预测.csv
+2026-10-11 18:56:42,503 INFO Data=2098 days x 31 provinces; train windows=1655, validation windows=17, test origins=199; scaler mean=0.85778625 std=0.65385749
+2026-10-11 18:56:42,543 INFO GPU smoke check passed: input=(4, 12, 31) forecast=(4, 12, 31)
+2026-10-11 18:56:45,312 INFO Epoch 1/300 train_MAE_scaled=0.781514 validation_MAE=0.51297297 lr=1e-06 wait=0/50
+2026-10-11 18:56:47,590 INFO Epoch 5/300 train_MAE_scaled=0.557441 validation_MAE=0.37291287 lr=0.0008002 wait=0/50
+2026-10-11 18:56:50,405 INFO Epoch 10/300 train_MAE_scaled=0.487031 validation_MAE=0.33933381 lr=0.0009980029 wait=0/50
+2026-10-11 18:56:53,306 INFO Epoch 15/300 train_MAE_scaled=0.465288 validation_MAE=0.32806593 lr=0.0009951725 wait=1/50
+2026-10-11 18:56:56,250 INFO Epoch 20/300 train_MAE_scaled=0.449706 validation_MAE=0.31241360 lr=0.000991122 wait=0/50
+2026-10-11 18:56:59,095 INFO Epoch 25/300 train_MAE_scaled=0.438508 validation_MAE=0.30584622 lr=0.0009858624 wait=0/50
+2026-10-11 18:57:01,922 INFO Epoch 30/300 train_MAE_scaled=0.430815 validation_MAE=0.30267121 lr=0.0009794081 wait=1/50
+2026-10-11 18:57:04,700 INFO Epoch 35/300 train_MAE_scaled=0.422577 validation_MAE=0.29799824 lr=0.0009717769 wait=0/50
+2026-10-11 18:57:07,506 INFO Epoch 40/300 train_MAE_scaled=0.417280 validation_MAE=0.29329914 lr=0.0009629896 wait=1/50
+2026-10-11 18:57:10,307 INFO Epoch 45/300 train_MAE_scaled=0.412328 validation_MAE=0.28854119 lr=0.0009530703 wait=0/50
+2026-10-11 18:57:13,121 INFO Epoch 50/300 train_MAE_scaled=0.407981 validation_MAE=0.28659053 lr=0.0009420462 wait=0/50
+2026-10-11 18:57:15,925 INFO Epoch 55/300 train_MAE_scaled=0.402917 validation_MAE=0.28337621 lr=0.0009299476 wait=1/50
+2026-10-11 18:57:18,716 INFO Epoch 60/300 train_MAE_scaled=0.399715 validation_MAE=0.27743422 lr=0.0009168075 wait=0/50
+2026-10-11 18:57:21,508 INFO Epoch 65/300 train_MAE_scaled=0.397853 validation_MAE=0.28065399 lr=0.0009026621 wait=1/50
+2026-10-11 18:57:24,301 INFO Epoch 70/300 train_MAE_scaled=0.396606 validation_MAE=0.27397896 lr=0.00088755 wait=0/50
+2026-10-11 18:57:27,150 INFO Epoch 75/300 train_MAE_scaled=0.393995 validation_MAE=0.27400864 lr=0.0008715127 wait=2/50
+2026-10-11 18:57:29,963 INFO Epoch 80/300 train_MAE_scaled=0.391347 validation_MAE=0.26802500 lr=0.0008545942 wait=0/50
+2026-10-11 18:57:32,775 INFO Epoch 85/300 train_MAE_scaled=0.388434 validation_MAE=0.26541777 lr=0.0008368408 wait=0/50
+2026-10-11 18:57:35,568 INFO Epoch 90/300 train_MAE_scaled=0.386337 validation_MAE=0.26455266 lr=0.0008183012 wait=0/50
+2026-10-11 18:57:38,459 INFO Epoch 95/300 train_MAE_scaled=0.382796 validation_MAE=0.25950716 lr=0.0007990262 wait=0/50
+2026-10-11 18:57:41,268 INFO Epoch 100/300 train_MAE_scaled=0.380078 validation_MAE=0.25745888 lr=0.0007790686 wait=3/50

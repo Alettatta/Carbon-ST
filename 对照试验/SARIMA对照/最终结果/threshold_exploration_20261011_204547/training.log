@@ -1,0 +1,64 @@
+2026-10-11 20:45:51,886 SARIMA baseline validation Anhui
+2026-10-11 20:46:00,385 SARIMA baseline validation Beijing
+2026-10-11 20:46:01,876 SARIMA baseline validation Chongqing
+2026-10-11 20:46:08,549 SARIMA baseline validation Fujian
+2026-10-11 20:46:18,411 SARIMA baseline validation Gansu
+2026-10-11 20:46:27,422 SARIMA baseline validation Guangdong
+2026-10-11 20:46:30,446 SARIMA baseline validation Guangxi
+2026-10-11 20:46:48,656 SARIMA baseline validation Guizhou
+2026-10-11 20:46:50,737 SARIMA baseline validation Hainan
+2026-10-11 20:46:59,042 SARIMA baseline validation Hebei
+2026-10-11 20:47:12,655 SARIMA baseline validation Heilongjiang
+2026-10-11 20:47:16,311 SARIMA baseline validation Henan
+2026-10-11 20:47:29,947 SARIMA baseline validation Hubei
+2026-10-11 20:47:42,004 SARIMA baseline validation Hunan
+2026-10-11 20:48:12,308 SARIMA baseline validation Inner mongolia
+2026-10-11 20:48:17,057 SARIMA baseline validation Jiangsu
+2026-10-11 20:48:22,453 SARIMA baseline validation Jiangxi
+2026-10-11 20:48:44,926 SARIMA baseline validation Jilin
+2026-10-11 20:48:55,704 SARIMA baseline validation Liaoning
+2026-10-11 20:49:16,102 SARIMA baseline validation Ningxia
+2026-10-11 20:49:17,464 SARIMA baseline validation Qinghai
+2026-10-11 20:49:20,449 SARIMA baseline validation Shaanxi
+2026-10-11 20:49:24,411 SARIMA baseline validation Shandong
+2026-10-11 20:49:35,127 SARIMA baseline validation Shanghai
+2026-10-11 20:49:40,341 SARIMA baseline validation Shanxi
+2026-10-11 20:49:53,158 SARIMA baseline validation Sichuan
+2026-10-11 20:50:00,607 SARIMA baseline validation Tianjin
+2026-10-11 20:50:07,506 SARIMA baseline validation Tibet
+2026-10-11 20:50:11,508 SARIMA baseline validation Xinjiang
+2026-10-11 20:50:44,351 SARIMA baseline validation Yunnan
+2026-10-11 20:50:54,055 SARIMA baseline validation Zhejiang
+2026-10-11 20:53:10,675 SARIMA candidate 1 {'candidate': 1, 'config': {'order': [0, 0, 0], 'seasonal_order': [0, 1, 0, 28]}, 'validation': {'MAE': 0.07529783972770399, 'RMSE': 0.1215873638164003, 'MAPE_percent': 8.46313834033003, 'scored_values': 6324, 'mape_values': 6324}, 'all_three_above_validation_thresholds': True}
+2026-10-11 20:54:01,765 SARIMA locked test prediction Anhui
+2026-10-11 20:54:52,739 SARIMA locked test prediction Beijing
+2026-10-11 20:55:44,920 SARIMA locked test prediction Chongqing
+2026-10-11 20:56:36,422 SARIMA locked test prediction Fujian
+2026-10-11 20:57:28,461 SARIMA locked test prediction Gansu
+2026-10-11 20:58:19,676 SARIMA locked test prediction Guangdong
+2026-10-11 20:59:10,855 SARIMA locked test prediction Guangxi
+2026-10-11 21:00:02,344 SARIMA locked test prediction Guizhou
+2026-10-11 21:00:56,320 SARIMA locked test prediction Hainan
+2026-10-11 21:01:46,857 SARIMA locked test prediction Hebei
+2026-10-11 21:02:39,422 SARIMA locked test prediction Heilongjiang
+2026-10-11 21:03:32,442 SARIMA locked test prediction Henan
+2026-10-11 21:04:24,018 SARIMA locked test prediction Hubei
+2026-10-11 21:05:15,716 SARIMA locked test prediction Hunan
+2026-10-11 21:06:06,567 SARIMA locked test prediction Inner mongolia
+2026-10-11 21:06:59,613 SARIMA locked test prediction Jiangsu
+2026-10-11 21:07:50,548 SARIMA locked test prediction Jiangxi
+2026-10-11 21:08:41,456 SARIMA locked test prediction Jilin
+2026-10-11 21:09:32,623 SARIMA locked test prediction Liaoning
+2026-10-11 21:10:24,277 SARIMA locked test prediction Ningxia
+2026-10-11 21:11:15,551 SARIMA locked test prediction Qinghai
+2026-10-11 21:12:08,405 SARIMA locked test prediction Shaanxi
+2026-10-11 21:13:00,237 SARIMA locked test prediction Shandong
+2026-10-11 21:13:52,702 SARIMA locked test prediction Shanghai
+2026-10-11 21:14:44,527 SARIMA locked test prediction Shanxi
+2026-10-11 21:15:35,548 SARIMA locked test prediction Sichuan
+2026-10-11 21:16:26,825 SARIMA locked test prediction Tianjin
+2026-10-11 21:17:18,801 SARIMA locked test prediction Tibet
+2026-10-11 21:18:10,387 SARIMA locked test prediction Xinjiang
+2026-10-11 21:19:02,195 SARIMA locked test prediction Yunnan
+2026-10-11 21:19:54,240 SARIMA locked test prediction Zhejiang
+2026-10-11 21:19:55,041 FINISHED SARIMA {'model': 'SARIMA', 'baseline': {'MAE': 0.03183405313773949, 'RMSE': 0.05150434775300148, 'MAPE_percent': 3.51785504339634, 'scored_values': 74028, 'mape_values': 74028}, 'second_round': {'MAE': 0.06889181741758522, 'RMSE': 0.11188757606251663, 'MAPE_percent': 7.649605141498982, 'scored_values': 74028, 'mape_values': 74028}, 'absolute_thresholds': {'MAE': 0.04791, 'RMSE': 0.06979, 'MAPE_percent': 5.9289}, 'all_three_above_thresholds': True, 'increase_percent': {'MAE': 116.40919275815841, 'RMSE': 117.23908940482845, 'MAPE_percent': 117.45083430480445}, 'all_three_numerically_higher': True, 'selected_config': {'order': [0, 0, 0], 'seasonal_order': [0, 1, 0, 28]}, 'experiment': 'explicit simplified-order degradation control, not optimized baseline', 'exploratory_followup_after_prior_test': True, 'prior_run_directory': 'D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\SARIMA对照\\最终结果\\degradation_20261011_190413'}

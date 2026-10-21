@@ -1,0 +1,13 @@
+{
+  "cap": 100,
+  "best_epoch": 97,
+  "validation": {
+    "MAE": 0.25722941403978866,
+    "RMSE": 0.3721259998861541,
+    "MAPE_percent": 41.57824748475398,
+    "scored_values": 6324,
+    "mape_values": 6324
+  },
+  "all_three_worse_on_validation": true,
+  "directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\GCN对照\\最终结果\\degradation_20261011_185637\\cap_100"
+}

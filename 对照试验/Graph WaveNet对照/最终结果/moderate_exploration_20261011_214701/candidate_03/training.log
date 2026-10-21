@@ -1,0 +1,6 @@
+2026-10-11 21:48:42,277 INFO Output directory: D:\word\OneDrive\桌面\叶珒杰\对照试验2\Graph WaveNet对照\moderate_exploration_20261011_214701\candidate_03
+2026-10-11 21:48:42,278 INFO Python=3.8.20 torch=2.4.1 CUDA=11.8 GPU=NVIDIA GeForce GTX 1650
+2026-10-11 21:48:42,278 INFO Loading source: D:\word\OneDrive\桌面\叶珒杰\复现\raw_inputs\历史与预测.csv
+2026-10-11 21:48:42,424 INFO Data=2098 days x 31 provinces; train windows=1655, validation windows=17, test origins=199; scaler mean=0.85778625 std=0.65385749
+2026-10-11 21:48:42,584 INFO GPU smoke check passed: input=(4, 12, 31) forecast=(4, 12, 31)
+2026-10-11 21:49:05,455 INFO Epoch 1/300 train_MAE_scaled=0.777767 validation_MAE=0.50641912 lr=1e-06 wait=0/50

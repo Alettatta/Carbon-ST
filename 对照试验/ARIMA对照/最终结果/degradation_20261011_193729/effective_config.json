@@ -1,0 +1,16 @@
+{
+  "model": "ARIMA",
+  "order": [
+    0,
+    0,
+    0
+  ],
+  "seasonal_order": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "fit_rows": 1888,
+  "rolling_update": "append(refit=False)"
+}

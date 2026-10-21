@@ -1,0 +1,42 @@
+{
+  "status": "completed",
+  "elapsed_seconds": 211.43647122383118,
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "model": "ARIMA",
+  "baseline": {
+    "MAE": 0.03154160023378543,
+    "RMSE": 0.051679813039580434,
+    "MAPE_percent": 3.476072934086956,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.08446973233737401,
+    "RMSE": 0.1219338544117761,
+    "MAPE_percent": 10.974438567227821,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "increase_percent": {
+    "MAE": 167.80420686105586,
+    "RMSE": 135.9409743189079,
+    "MAPE_percent": 215.71370265596647
+  },
+  "all_three_numerically_higher": true,
+  "selected_config": {
+    "order": [
+      0,
+      0,
+      0
+    ],
+    "seasonal_order": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "experiment": "explicit simplified-order degradation control, not optimized baseline",
+  "exploratory_followup_after_prior_test": true,
+  "cleanup_note": "Only final artifacts and selected configuration retained at user request; historical runs and unused candidates deleted."
+}

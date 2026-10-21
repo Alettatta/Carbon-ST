@@ -1,0 +1,27 @@
+{
+  "model": "GRU",
+  "baseline": {
+    "MAE": 0.04895177303443104,
+    "RMSE": 0.06895442680698464,
+    "MAPE_percent": 6.683551130871324,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.05136694185037785,
+    "RMSE": 0.07525415546024956,
+    "MAPE_percent": 7.042488667201274,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "increase_percent": {
+    "MAE": 4.933771886562849,
+    "RMSE": 9.136075731437733,
+    "MAPE_percent": 5.370461440356426
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 20,
+  "best_epoch": 20,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline"
+}

@@ -1,0 +1,52 @@
+{
+  "source_geo": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\moderate_exploration_20261011_214701\\candidate_03\\CarbonProvince.geo",
+  "source_rel": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\moderate_exploration_20261011_214701\\candidate_03\\CarbonProvince.rel",
+  "geo_sha256": "d8a1f2d3b1c2f6cee4279acbd5009f42201c1c03ed65aeade134ce34e3a5f475",
+  "rel_sha256": "c3c33f0a22853868defd355b00b3a435ae5e6d5eb46e83bdccd8278a2d2f827c",
+  "province_order": [
+    "Anhui",
+    "Beijing",
+    "Chongqing",
+    "Fujian",
+    "Gansu",
+    "Guangdong",
+    "Guangxi",
+    "Guizhou",
+    "Hainan",
+    "Hebei",
+    "Heilongjiang",
+    "Henan",
+    "Hubei",
+    "Hunan",
+    "Inner mongolia",
+    "Jiangsu",
+    "Jiangxi",
+    "Jilin",
+    "Liaoning",
+    "Ningxia",
+    "Qinghai",
+    "Shaanxi",
+    "Shandong",
+    "Shanghai",
+    "Shanxi",
+    "Sichuan",
+    "Tianjin",
+    "Tibet",
+    "Xinjiang",
+    "Yunnan",
+    "Zhejiang"
+  ],
+  "relation_rows": 316,
+  "undirected_edges": 158,
+  "isolated_nodes": [
+    "Tibet",
+    "Xinjiang"
+  ],
+  "supports": [
+    "row-normalized forward transition",
+    "row-normalized reverse transition"
+  ],
+  "learned_adaptive_support": true,
+  "adaptive_embedding_dim": 10,
+  "transition_supports_artifact": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\moderate_exploration_20261011_214701\\candidate_03\\transition_supports.npy"
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "csv_recomputed_metrics": {
+    "MAE": 0.23448793204592566,
+    "RMSE": 0.34952190463583505,
+    "MAPE_percent": 37.825168336672064,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "same_keys_and_targets_as_first_experiment": true,
+  "scored_values": 74028
+}

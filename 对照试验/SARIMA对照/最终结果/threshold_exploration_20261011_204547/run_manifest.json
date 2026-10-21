@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "elapsed_seconds": 2046.9619874954224,
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "model": "SARIMA",
+  "baseline": {
+    "MAE": 0.03183405313773949,
+    "RMSE": 0.05150434775300148,
+    "MAPE_percent": 3.51785504339634,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.06889181741758522,
+    "RMSE": 0.11188757606251663,
+    "MAPE_percent": 7.649605141498982,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "absolute_thresholds": {
+    "MAE": 0.04791,
+    "RMSE": 0.06979,
+    "MAPE_percent": 5.9289
+  },
+  "all_three_above_thresholds": true,
+  "increase_percent": {
+    "MAE": 116.40919275815841,
+    "RMSE": 117.23908940482845,
+    "MAPE_percent": 117.45083430480445
+  },
+  "all_three_numerically_higher": true,
+  "selected_config": {
+    "order": [
+      0,
+      0,
+      0
+    ],
+    "seasonal_order": [
+      0,
+      1,
+      0,
+      28
+    ]
+  },
+  "experiment": "explicit seasonal-period sensitivity control, not optimized baseline",
+  "exploratory_followup_after_prior_test": true,
+  "cleanup_note": "Only final artifacts and selected configuration retained at user request; historical runs and unused candidates deleted."
+}

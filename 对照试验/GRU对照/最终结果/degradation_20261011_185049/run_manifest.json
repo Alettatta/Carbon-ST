@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "baseline_directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验\\GRU对照",
+  "selected_checkpoint": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\GRU对照\\最终结果\\degradation_20261011_185049\\cap_20\\best_model.pt",
+  "split_manifest": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\GRU对照\\最终结果\\degradation_20261011_185049\\cap_20\\split_manifest.json",
+  "elapsed_seconds": 34.88598704338074,
+  "model": "GRU",
+  "baseline": {
+    "MAE": 0.04895177303443104,
+    "RMSE": 0.06895442680698464,
+    "MAPE_percent": 6.683551130871324,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.05136694185037785,
+    "RMSE": 0.07525415546024956,
+    "MAPE_percent": 7.042488667201274,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "increase_percent": {
+    "MAE": 4.933771886562849,
+    "RMSE": 9.136075731437733,
+    "MAPE_percent": 5.370461440356426
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 20,
+  "best_epoch": 20,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline",
+  "cleanup_note": "Only final artifacts and selected configuration retained at user request; historical runs and unused candidates deleted."
+}

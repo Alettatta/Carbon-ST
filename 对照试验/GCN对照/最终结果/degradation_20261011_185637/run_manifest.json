@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "baseline_directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验\\GCN对照",
+  "selected_checkpoint": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\GCN对照\\最终结果\\degradation_20261011_185637\\cap_100\\best_model.pt",
+  "split_manifest": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\GCN对照\\最终结果\\degradation_20261011_185637\\cap_100\\split_manifest.json",
+  "elapsed_seconds": 115.48412227630615,
+  "model": "GCN",
+  "baseline": {
+    "MAE": 0.21059840331909246,
+    "RMSE": 0.3218774487937422,
+    "MAPE_percent": 33.398793376879695,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.23448793204592563,
+    "RMSE": 0.34952190463583505,
+    "MAPE_percent": 37.825168336672064,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "increase_percent": {
+    "MAE": 11.343641903417693,
+    "RMSE": 8.588503464810083,
+    "MAPE_percent": 13.25309842737171
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 100,
+  "best_epoch": 97,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline",
+  "cleanup_note": "Only final artifacts and selected configuration retained at user request; historical runs and unused candidates deleted."
+}

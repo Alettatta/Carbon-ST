@@ -1,0 +1,47 @@
+{
+  "status": "completed",
+  "source_sha256": "e35e76657d27258ea8ed515d0ce793b6fd0361dc5357e2c1cd62e452477ca106",
+  "baseline_directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验\\Graph WaveNet对照",
+  "selected_checkpoint": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\最终结果\\moderate_exploration_20261011_214701\\candidate_03\\best_model.pt",
+  "split_manifest": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\Graph WaveNet对照\\最终结果\\moderate_exploration_20261011_214701\\candidate_03\\split_manifest.json",
+  "elapsed_seconds": 196.57334923744202,
+  "model": "Graph WaveNet",
+  "baseline": {
+    "MAE": 0.031245924999304783,
+    "RMSE": 0.05087566568816627,
+    "MAPE_percent": 3.6336743328334515,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "second_round": {
+    "MAE": 0.054366918020527205,
+    "RMSE": 0.09127051098740477,
+    "MAPE_percent": 6.187592968304866,
+    "scored_values": 74028,
+    "mape_values": 74028
+  },
+  "absolute_thresholds": {
+    "MAE": 0.04791,
+    "RMSE": 0.06979,
+    "MAPE_percent": 5.9289
+  },
+  "upper_factor": 1.5,
+  "all_three_above_thresholds": true,
+  "all_three_within_requested_band": true,
+  "learning_rate": 0.001,
+  "dropout": 0.97,
+  "batch_size": 16,
+  "increase_percent": {
+    "MAE": 73.99682685577994,
+    "RMSE": 79.39914840000685,
+    "MAPE_percent": 70.28474215189038
+  },
+  "all_three_numerically_higher": true,
+  "training_epoch_cap": 2,
+  "best_epoch": 2,
+  "scheduler_total_epochs": 300,
+  "experiment": "explicitly degraded training-budget control, not optimized baseline",
+  "exploratory_followup_after_prior_test": true,
+  "cleanup_note": "Only final artifacts and selected configuration retained at user request; historical runs and unused candidates deleted.",
+  "original_run_upper_factor": 1.3
+}

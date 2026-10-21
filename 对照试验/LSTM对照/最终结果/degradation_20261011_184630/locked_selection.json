@@ -1,0 +1,13 @@
+{
+  "cap": 20,
+  "best_epoch": 20,
+  "validation": {
+    "MAE": 0.06570366781963884,
+    "RMSE": 0.10684705460292203,
+    "MAPE_percent": 7.777459190041094,
+    "scored_values": 6324,
+    "mape_values": 6324
+  },
+  "all_three_worse_on_validation": true,
+  "directory": "D:\\word\\OneDrive\\桌面\\叶珒杰\\对照试验2\\LSTM对照\\最终结果\\degradation_20261011_184630\\cap_20"
+}
