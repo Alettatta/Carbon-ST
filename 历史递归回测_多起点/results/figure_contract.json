@@ -1,0 +1,18 @@
+{
+  "backend": "python",
+  "archetype": "single-panel horizon curve",
+  "question": "How does recursive error vary by horizon across historical windows?",
+  "source": "metrics_by_horizon.csv",
+  "center": "mean of 22 province-averaged MAEs",
+  "spread": "sample SD across 22 origins, ddof=1",
+  "confidence_interval": false,
+  "smoothing": false,
+  "clipping": false,
+  "alignment": "Not applicable: one panel",
+  "formats": [
+    "PNG 300 dpi",
+    "PDF vector",
+    "SVG editable"
+  ],
+  "units": "source data units; physical unit not independently confirmed"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "origins_and_dates": true,
+  "recursive_shift_and_predicted_feedback_every_step": true,
+  "full_180_day_changed_labels_identical": true,
+  "first_origin_repeat_exact": true,
+  "independent_csv_all_metrics_and_sample_sd": true,
+  "all_predictions_finite": true,
+  "inputs_hashes_unchanged": true,
+  "output_root": "D:\\word\\OneDrive\\桌面\\叶珒杰\\历史递归回测_多起点"
+}

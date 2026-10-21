@@ -1,0 +1,30 @@
+{
+  "input_window": 12,
+  "horizon": 180,
+  "origin_spacing": 90,
+  "origins": 22,
+  "history_rows": 2098,
+  "excluded_forecast_rows": 182,
+  "checkpoint_epoch": 165,
+  "first_origin": "2019-01-15",
+  "first_last_target": "2019-07-13",
+  "final_origin": "2024-03-19",
+  "final_last_target": "2024-09-14",
+  "model_calendar_start": "2019-01-01",
+  "display_calendar_start": "2019-01-03",
+  "scaler_mean": 0.8571480798035013,
+  "scaler_std": 0.6533952796190988,
+  "sd_ddof": 1,
+  "seed": 0,
+  "batch_size": 1,
+  "checkpoint_sha256": "b5051689780df88cb4d0ed55c01af6ca605dbbc5d65f2a935b3faf50fa3ac9a2",
+  "elapsed_seconds": 166.5817792415619,
+  "runtime": {
+    "python": "3.8.20 (default, Oct  3 2024, 15:19:54) [MSC v.1929 64 bit (AMD64)]",
+    "torch": "2.4.1",
+    "numpy": "1.24.3",
+    "pandas": "1.5.3",
+    "device": "cuda:0",
+    "gpu": "NVIDIA GeForce GTX 1650"
+  }
+}

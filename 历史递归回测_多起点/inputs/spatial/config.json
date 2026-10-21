@@ -1,0 +1,19 @@
+{
+  "geo_file": "CarbonProvince",
+  "rel_file": "CarbonProvince",
+  "data_files": [
+    "CarbonProvince"
+  ],
+  "ext_file": "CarbonProvince",
+  "info": {
+    "data_col": [
+      "carbon_emission"
+    ],
+    "weight_col": "cost"
+  },
+  "time_intervals": 86400,
+  "init_weight_inf_or_zero": "zero",
+  "set_weight_link_or_dist": "link",
+  "calculate_weight_adj": false,
+  "weight_adj_epsilon": 0.1
+}
