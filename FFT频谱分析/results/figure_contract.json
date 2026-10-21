@@ -1,0 +1,10 @@
+{
+  "question": "Compare frequency structure of all 31 supplied forecast sequences after removing level and linear trend",
+  "archetype": "quantitative grid",
+  "reference_adaptation": "style-only: paired time series + spectrum per province",
+  "upper_panel": "unaltered supplied forecasts, original units",
+  "lower_panel": "Hann-tapered detrended normalized non-DC power",
+  "period": "Peak-bin period, exploratory; no inferential confidence interval",
+  "summary": "Dominant period and disjoint band power fractions, not substituted as the spectral y-axis",
+  "export": "TIFF 300 dpi LZW, combined PDF/SVG, 31 individual TIFF/PDFs"
+}

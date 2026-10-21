@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "all_31_provinces_rendered_with_correct_labels": true,
+  "all_31_dominant_periods_and_band_percentages_match_CSV": true,
+  "composite_data_panels": 62,
+  "all_32_PDFs_text_and_collision_checks_pass": true,
+  "all_32_alignment_reports_pass": true,
+  "TIFF_count": 32,
+  "numerical_verification": "PASS",
+  "source_code_explains_demean_detrend_Hann": true,
+  "original_FFT_m_reviewed_and_preserved": true,
+  "MATLAB_companion_execution": "Not run; actual figures generated in Python",
+  "methods_caption_processing_and_QA_notes_delivered": true
+}

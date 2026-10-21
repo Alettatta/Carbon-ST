@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "province_count": 31,
+  "forecast_samples": 180,
+  "source_rows": [
+    2101,
+    2280
+  ],
+  "all_positive_frequency_power_sums_one": true,
+  "all_band_percentages_sum_100": true,
+  "detrended_mean_and_linear_slope_zero": true,
+  "dominant_peaks_match_spectral_csv": true,
+  "normalized_spectra_invariant_to_level_and_amplitude": true,
+  "known_sine_frequency_test_even_and_odd": true,
+  "constant_and_linear_series_rejected": true,
+  "individual_tiff_count": 31,
+  "combined_tiff_dimensions": [
+    7200,
+    7500
+  ],
+  "all_tiff_dpi": 300,
+  "original_inputs_unchanged": true
+}
